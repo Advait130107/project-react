@@ -57,10 +57,6 @@ function Home() {
             </li>
           </ul>
         </section>
-
-        <footer className="text-center text-secondary mt-5">
-          &copy; 2025 Sports Tracker | All rights reserved
-        </footer>
       </div>
     </div>
   );
