@@ -16,7 +16,7 @@ const Login = () => {
       toast.error("Please fill in both fields");
       return;
     }
-    if (studentId === "123" && password === "qwe") {
+    if (studentId === "13147" && password === "aditya") {
       toast.success("Login successful!");
       localStorage.setItem("login", "true");
       navigate("/dashboard");
