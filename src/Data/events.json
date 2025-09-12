@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Football Match",
+    "date": "2025-10-01",
+    "enrolled": []
+  },
+  {
+    "id": 2,
+    "name": "Basketball Tournament",
+    "date": "2025-10-05",
+    "enrolled": []
+  },
+  {
+    "id": 3,
+    "name": "Volleyball Championship",
+    "date": "2025-10-10",
+    "enrolled": []
+  }
+]
