@@ -109,7 +109,7 @@ const Equipment = () => {
     <div className="container py-4">
       <h2 className="fw-bold mb-4 text-warning">
         <FaDumbbell className="me-2" />
-        Gym Equipment
+        Sports To Enroll
       </h2>
 
       <div className="row">

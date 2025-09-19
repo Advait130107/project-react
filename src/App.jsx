@@ -14,6 +14,7 @@ import AdminEvents from "./components/Admin/Events/AdminEvents";
 
 // Utilities
 import ProtectedRoute from "./components/Utilities/ProtectedRoute";
+import Events from "./components/Events";
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
                 <Routes>
                   <Route path="dashboard" element={<Dashboard />} />
                   <Route path="equipment" element={<Equipment />} />
+                  <Route path="events" element={<Events />} />
                 </Routes>
               </ProtectedRoute>
             }

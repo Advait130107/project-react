@@ -1,4 +1,5 @@
 [
-  { "id": "13147", "name": "John Doe", "password": "student123" },
-  { "id": "13148", "name": "Jane Smith", "password": "student456" }
+  { "id": "13146", "name": "Parth Tilekar", "password": "student789" },
+  { "id": "13147", "name": "Aditya Nair", "password": "student123" },
+  { "id": "13148", "name": "Advait Uttekar", "password": "student456" }
 ]
